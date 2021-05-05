@@ -1,4 +1,3 @@
 # Calculator
-Simple Calculator that has division, addition, multiplication, and subtraction.
+SEX CALCULATOR
 
-Yes you need an java compiler. 
